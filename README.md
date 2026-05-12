@@ -13,8 +13,8 @@
 - Urgent issue escalation with forced High priority
 
 ## Architecture
-![Business](docs/Arch fonctionelle.jpg)
-[!technical](docs/architecture.jpg)
+![Business](Arch fonctionelle.jpg)
+[!technical](Arch tech.jpg)
 
 ## Tech Stack
 | Layer | Technology |
